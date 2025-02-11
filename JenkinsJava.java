@@ -1,4 +1,4 @@
-public static JenkinsJava
+public class JenkinsJava
 {
  public static void main (String args[])
 {
