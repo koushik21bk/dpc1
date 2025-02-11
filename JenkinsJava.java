@@ -1,4 +1,4 @@
-public static Test
+public static JenkinsJava
 {
  public static void main (String args[])
 {
